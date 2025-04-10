@@ -1,0 +1,2741 @@
+annotations:
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#FF0000FF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -240.0
+    y1: -320.0
+    x2: 160.0
+    y2: 200.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#F5FF00FF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: 240.0
+    y1: -320.0
+    x2: 160.0
+    y2: 200.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#A300FFFF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: 0.0
+    y1: 320.0
+    x2: 160.0
+    y2: 200.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#0014FFFF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: -600.0
+    y1: -80.0
+    x2: 600.9198900528268
+    y2: 360.0
+    z_index: 0
+  - border_color: '#808080FF'
+    border_radius: 0
+    border_style: ''
+    color: '#0AFF00FF'
+    rotation: 0
+    thickness: 1
+    type: rectangle
+    x1: 159.18075961804414
+    y1: -80.0
+    x2: 600.8192403819562
+    y2: 360.0
+    z_index: 0
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: AS 100
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -189.02325581395345
+    y1: -307.3488372093023
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: AS 200
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 295.06976744186045
+    y1: -310.3255813953489
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: AS 300
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -583.4113712374583
+    y1: -64.34782608695652
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: AS 400
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 171.23185813175704
+    y1: -68.26662518472433
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: AS 500
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 54.32558139534884
+    y1: 485.5813953488371
+    z_index: 1
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 100.200.100.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 5.767441860465137
+    y1: -234.04651162790697
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 100.2.2.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -422.47491638795987
+    y1: -111.57190635451505
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 100.2.2.4/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -145.26685852064998
+    y1: -106.02162246247178
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 172.16.30.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -339.6655518394648
+    y1: 18.996655518394626
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 172.16.31.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -560.0
+    y1: 80.0
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 172.16.32.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -143.27759197324417
+    y1: 93.1103678929766
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 172.16.33.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -341.53846153846143
+    y1: 166.95652173913047
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 100.30.40.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 19.939703683777985
+    y1: -29.569079035866185
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 100.30.50.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: -181.75650816654183
+    y1: 313.1455207242065
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 100.30.50.4/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 221.18403290705314
+    y1: 311.145851123987
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.40.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 370.54166318687
+    y1: 19.11072730338371
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.41.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 169.63789793278073
+    y1: 92.3934843450671
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.42.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 570.9935458139146
+    y1: 90.39381474484759
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 192.168.43.0/24
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 373.2595669447475
+    y1: 168.4312513639143
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 200.2.2.0/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 199.97333184149934
+    y1: -107.2320031848901
+    z_index: 2
+  - border_color: '#00000000'
+    border_style: ''
+    color: '#FFFFFF'
+    rotation: 0
+    text_bold: false
+    text_content: 200.2.2.4/30
+    text_font: monospace
+    text_italic: false
+    text_size: 12
+    text_unit: pt
+    thickness: 1
+    type: text
+    x1: 464.2357185747469
+    y1: -110.81656597757073
+    z_index: 2
+smart_annotations: []
+nodes:
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3489 bytes
+          !
+          ! Last configuration change at 17:48:59 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R100-1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 10.10.10.1 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R200-1:AS200
+           ip address 100.200.100.1 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R300-2:AS300
+           ip address 100.2.2.5 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R300-1:AS300
+           ip address 100.2.2.1 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 100
+           bgp log-neighbor-changes
+           network 10.10.10.1 mask 255.255.255.255
+           network 100.2.2.0 mask 255.255.255.252
+           network 100.2.2.4 mask 255.255.255.252
+           network 100.200.100.0 mask 255.255.255.252
+           neighbor 100.2.2.2 remote-as 300
+           neighbor 100.2.2.6 remote-as 300
+           neighbor 100.200.100.2 remote-as 200
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n0
+    image_definition: null
+    label: R100-1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -160
+    y: -200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3489 bytes
+          !
+          ! Last configuration change at 17:49:02 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R200-1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 20.20.20.1 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R100-1:AS100
+           ip address 100.200.100.2 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R400-2:AS400
+           ip address 200.2.2.5 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R400-1:AS400
+           ip address 200.2.2.1 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 200
+           bgp log-neighbor-changes
+           network 20.20.20.1 mask 255.255.255.255
+           network 100.200.100.0 mask 255.255.255.252
+           network 200.2.2.0 mask 255.255.255.252
+           network 200.2.2.4 mask 255.255.255.252
+           neighbor 100.200.100.1 remote-as 100
+           neighbor 200.2.2.2 remote-as 400
+           neighbor 200.2.2.6 remote-as 400
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n1
+    image_definition: null
+    label: R200-1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: 320
+    y: -201
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3579 bytes
+          !
+          ! Last configuration change at 17:49:41 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R400-2
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 40.40.40.2 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R400-1:iBGP
+           ip address 192.168.40.2 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R200-1:AS200
+           ip address 200.2.2.6 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R400-4:iBGP
+           ip address 192.168.42.2 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 400
+           bgp log-neighbor-changes
+           network 40.40.40.2 mask 255.255.255.255
+           network 192.168.40.0
+           network 192.168.42.0
+           network 200.2.2.4 mask 255.255.255.252
+           aggregate-address 192.168.40.0 255.255.248.0 as-set summary-only
+           aggregate-address 40.40.40.0 255.255.255.248 as-set summary-only
+           neighbor 192.168.40.1 remote-as 400
+           neighbor 192.168.42.4 remote-as 400
+           neighbor 200.2.2.5 remote-as 200
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n2
+    image_definition: null
+    label: R400-2
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: 560
+    y: 0
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4018 bytes
+          !
+          ! Last configuration change at 17:49:16 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R300-2
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 30.30.30.2 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R300-1:iBGP
+           ip address 172.16.30.2 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R1:AS100
+           ip address 100.2.2.6 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R300-4:iBGP
+           ip address 172.16.32.2 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           description to R400-1:AS400
+           ip address 100.30.40.1 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 300
+           bgp log-neighbor-changes
+           neighbor 100.2.2.5 remote-as 100
+           neighbor 100.30.40.2 remote-as 400
+           neighbor 172.16.30.1 remote-as 300
+           neighbor 172.16.32.4 remote-as 300
+           !
+           address-family ipv4
+            network 30.30.30.2 mask 255.255.255.255
+            network 100.2.2.4 mask 255.255.255.252
+            network 100.30.40.0 mask 255.255.255.252
+            network 172.16.30.0 mask 255.255.255.0
+            network 172.16.32.0 mask 255.255.255.0
+            aggregate-address 172.16.32.0 255.255.254.0 as-set summary-only
+            aggregate-address 172.16.30.0 255.255.254.0 as-set summary-only
+            aggregate-address 30.30.30.0 255.255.255.248 as-set summary-only
+            neighbor 100.2.2.5 activate
+            neighbor 100.30.40.2 activate
+            neighbor 172.16.30.1 activate
+            neighbor 172.16.30.1 route-reflector-client
+            neighbor 172.16.32.4 activate
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n3
+    image_definition: null
+    label: R300-2
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -160
+    y: 0
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3675 bytes
+          !
+          ! Last configuration change at 17:49:11 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R300-1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 30.30.30.1 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R300-2:iBGP
+           ip address 172.16.30.1 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R300-3:iBGP
+           ip address 172.16.31.1 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R100-1:AS100
+           ip address 100.2.2.2 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 300
+           bgp log-neighbor-changes
+           network 30.30.30.1 mask 255.255.255.255
+           network 100.2.2.0 mask 255.255.255.252
+           network 172.16.30.0 mask 255.255.255.0
+           network 172.16.31.0 mask 255.255.255.0
+           aggregate-address 172.16.32.0 255.255.254.0 as-set summary-only
+           aggregate-address 172.16.30.0 255.255.254.0 as-set summary-only
+           aggregate-address 30.30.30.0 255.255.255.248 as-set summary-only
+           neighbor 100.2.2.1 remote-as 100
+           neighbor 172.16.30.2 remote-as 300
+           neighbor 172.16.31.3 remote-as 300
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n4
+    image_definition: null
+    label: R300-1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -400
+    y: 0
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3928 bytes
+          !
+          ! Last configuration change at 17:49:35 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R400-1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 40.40.40.1 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R400-2:iBGP
+           ip address 192.168.40.1 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R400-3:iBGP
+           ip address 192.168.41.1 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R200-1:AS200
+           ip address 200.2.2.2 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           description to R300-2:AS300
+           ip address 100.30.40.2 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 400
+           bgp log-neighbor-changes
+           neighbor 100.30.40.1 remote-as 300
+           neighbor 192.168.40.2 remote-as 400
+           neighbor 192.168.41.3 remote-as 400
+           neighbor 200.2.2.1 remote-as 200
+           !
+           address-family ipv4
+            network 40.40.40.1 mask 255.255.255.255
+            network 100.30.40.0 mask 255.255.255.252
+            network 192.168.40.0
+            network 192.168.41.0
+            network 200.2.2.0 mask 255.255.255.252
+            aggregate-address 192.168.40.0 255.255.248.0 as-set summary-only
+            aggregate-address 40.40.40.0 255.255.255.248 as-set summary-only
+            neighbor 100.30.40.1 activate
+            neighbor 192.168.40.2 activate
+            neighbor 192.168.41.3 activate
+            neighbor 192.168.41.3 route-reflector-client
+            neighbor 200.2.2.1 activate
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n5
+    image_definition: null
+    label: R400-1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: 320
+    y: 0
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3521 bytes
+          !
+          ! Last configuration change at 17:49:23 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R300-3
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 30.30.30.3 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R300-4:iBGP
+           ip address 172.16.33.3 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R300-1:iBGP
+           ip address 172.16.31.3 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 300
+           bgp log-neighbor-changes
+           neighbor 172.16.31.1 remote-as 300
+           neighbor 172.16.33.4 remote-as 300
+           !
+           address-family ipv4
+            network 30.30.30.3 mask 255.255.255.255
+            network 172.16.31.0 mask 255.255.255.0
+            network 172.16.33.0 mask 255.255.255.0
+            neighbor 172.16.31.1 activate
+            neighbor 172.16.31.1 route-reflector-client
+            neighbor 172.16.33.4 activate
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n6
+    image_definition: null
+    label: R300-3
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -400
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3829 bytes
+          !
+          ! Last configuration change at 17:49:28 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R300-4
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 30.30.30.4 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R300-3:iBGP
+           ip address 172.16.33.4 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R300-2:iBGP
+           ip address 172.16.32.4 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           description to R500-1:AS500
+           ip address 100.30.50.1 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 300
+           bgp log-neighbor-changes
+           neighbor 100.30.50.2 remote-as 500
+           neighbor 172.16.32.2 remote-as 300
+           neighbor 172.16.33.3 remote-as 300
+           !
+           address-family ipv4
+            network 30.30.30.4 mask 255.255.255.255
+            network 100.30.50.0 mask 255.255.255.252
+            network 172.16.32.0 mask 255.255.255.0
+            network 172.16.33.0 mask 255.255.255.0
+            aggregate-address 172.16.32.0 255.255.254.0 as-set summary-only
+            aggregate-address 172.16.30.0 255.255.254.0 as-set summary-only
+            aggregate-address 30.30.30.0 255.255.255.248 as-set summary-only
+            neighbor 100.30.50.2 activate
+            neighbor 172.16.32.2 activate
+            neighbor 172.16.33.3 activate
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n7
+    image_definition: null
+    label: R300-4
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: -160
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3734 bytes
+          !
+          ! Last configuration change at 17:49:51 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R400-3
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 40.40.40.3 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R400-4:iBGP
+           ip address 192.168.43.3 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           description to R400-1:iBGP
+           ip address 192.168.41.3 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R500-1:AS500
+           ip address 100.30.50.5 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 400
+           bgp log-neighbor-changes
+           neighbor 100.30.50.6 remote-as 500
+           neighbor 192.168.41.1 remote-as 400
+           neighbor 192.168.43.4 remote-as 400
+           !
+           address-family ipv4
+            network 40.40.40.3 mask 255.255.255.255
+            network 100.30.50.0 mask 255.255.255.252
+            network 192.168.41.0
+            network 192.168.43.0
+            aggregate-address 192.168.40.0 255.255.248.0 as-set summary-only
+            aggregate-address 40.40.40.0 255.255.255.248 as-set summary-only
+            neighbor 100.30.50.6 activate
+            neighbor 192.168.41.1 activate
+            neighbor 192.168.43.4 activate
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n8
+    image_definition: null
+    label: R400-3
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: 320
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 3492 bytes
+          !
+          ! Last configuration change at 17:49:54 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R400-4
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 40.40.40.4 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           description to R400-3:iBGP
+           ip address 192.168.43.4 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R400-2:iBGP
+           ip address 192.168.42.4 255.255.255.0
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 400
+           bgp log-neighbor-changes
+           neighbor 192.168.42.2 remote-as 400
+           neighbor 192.168.43.3 remote-as 400
+           !
+           address-family ipv4
+            network 40.40.40.4 mask 255.255.255.255
+            network 192.168.42.0
+            network 192.168.43.0
+            neighbor 192.168.42.2 activate
+            neighbor 192.168.43.3 activate
+            neighbor 192.168.43.3 route-reflector-client
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          ipv6 ioam timestamp
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n9
+    image_definition: null
+    label: R400-4
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: 560
+    y: 200
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+  - boot_disk_size: null
+    configuration:
+      - name: ios_config.txt
+        content: |-
+          Building configuration...
+
+          Current configuration : 4179 bytes
+          !
+          ! Last configuration change at 17:50:01 UTC Thu Apr 10 2025
+          !
+          version 15.9
+          service timestamps debug datetime msec
+          service timestamps log datetime msec
+          no service password-encryption
+          !
+          hostname R500-1
+          !
+          boot-start-marker
+          boot-end-marker
+          !
+          !
+          no logging console
+          !
+          no aaa new-model
+          !
+          !
+          !
+          mmi polling-interval 60
+          no mmi auto-configure
+          no mmi pvc
+          mmi snmp-timeout 180
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          ip cef
+          no ipv6 cef
+          !
+          multilink bundle-name authenticated
+          !
+          !
+          !
+          !
+          !
+          redundancy
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          !
+          interface Loopback0
+           ip address 50.50.50.1 255.255.255.255
+          !
+          interface GigabitEthernet0/0
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/1
+           no ip address
+           shutdown
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/2
+           description to R400-3:AS400
+           ip address 100.30.50.6 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          interface GigabitEthernet0/3
+           description to R300-4:AS300
+           ip address 100.30.50.2 255.255.255.252
+           duplex auto
+           speed auto
+           media-type rj45
+          !
+          router bgp 500
+           bgp log-neighbor-changes
+           neighbor 100.30.50.1 remote-as 300
+           neighbor 100.30.50.5 remote-as 400
+           !
+           address-family ipv4
+            network 50.50.50.1 mask 255.255.255.255
+            network 100.30.50.0 mask 255.255.255.252
+            network 100.30.50.4 mask 255.255.255.252
+            neighbor 100.30.50.1 activate
+            neighbor 100.30.50.1 route-map RM_PREF_AS300_IN in
+            neighbor 100.30.50.5 activate
+            neighbor 100.30.50.5 route-map RM_PREF_AS400_IN in
+           exit-address-family
+          !
+          ip forward-protocol nd
+          !
+          !
+          no ip http server
+          no ip http secure-server
+          !
+          !
+          ip prefix-list PL_100_TO_300_ROUTES seq 5 permit 100.2.2.0/30 le 32
+          ip prefix-list PL_100_TO_300_ROUTES seq 10 permit 100.2.2.4/30 le 32
+          !
+          ip prefix-list PL_200_TO_400_ROUTES seq 5 permit 200.2.2.0/30 le 32
+          ip prefix-list PL_200_TO_400_ROUTES seq 10 permit 200.2.2.4/30 le 32
+          ipv6 ioam timestamp
+          !
+          route-map RM_PREF_AS400_IN permit 10
+           match ip address prefix-list PL_200_TO_400_ROUTES
+           set local-preference 200
+          !
+          route-map RM_PREF_AS400_IN permit 20
+          !
+          route-map RM_PREF_AS300_IN permit 10
+           match ip address prefix-list PL_100_TO_300_ROUTES
+           set local-preference 200
+          !
+          route-map RM_PREF_AS300_IN permit 20
+          !
+          !
+          !
+          control-plane
+          !
+          banner exec ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner incoming ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          banner login ^C
+          **************************************************************************
+          * IOSv is strictly limited to use for evaluation, demonstration and IOS  *
+          * education. IOSv is provided as-is and is not supported by Cisco's      *
+          * Technical Advisory Center. Any use or disclosure, in whole or in part, *
+          * of the IOSv Software or Documentation to any third party for any       *
+          * purposes is expressly prohibited except as otherwise authorized by     *
+          * Cisco in writing.                                                      *
+          **************************************************************************^C
+          !
+          line con 0
+           exec-timeout 0 0
+          line aux 0
+          line vty 0 4
+           exec-timeout 0 0
+           login
+           transport input none
+          !
+          no scheduler allocate
+          !
+          end
+    cpu_limit: null
+    cpus: null
+    data_volume: null
+    hide_links: false
+    id: n10
+    image_definition: null
+    label: R500-1
+    node_definition: iosv
+    parameters: {}
+    ram: null
+    tags: []
+    x: 80
+    y: 400
+    interfaces:
+      - id: i0
+        label: Loopback0
+        mac_address: null
+        type: loopback
+      - id: i1
+        label: GigabitEthernet0/0
+        mac_address: null
+        slot: 0
+        type: physical
+      - id: i2
+        label: GigabitEthernet0/1
+        mac_address: null
+        slot: 1
+        type: physical
+      - id: i3
+        label: GigabitEthernet0/2
+        mac_address: null
+        slot: 2
+        type: physical
+      - id: i4
+        label: GigabitEthernet0/3
+        mac_address: null
+        slot: 3
+        type: physical
+links:
+  - id: l0
+    n1: n0
+    n2: n1
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: iosv-0-GigabitEthernet0/0<->iosv-1-GigabitEthernet0/0
+  - id: l1
+    n1: n0
+    n2: n3
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: iosv-0-GigabitEthernet0/1<->iosv-3-GigabitEthernet0/1
+  - id: l2
+    n1: n0
+    n2: n4
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: iosv-0-GigabitEthernet0/2<->iosv-4-GigabitEthernet0/2
+  - id: l3
+    n1: n4
+    n2: n3
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: iosv-4-GigabitEthernet0/0<->iosv-3-GigabitEthernet0/0
+  - id: l4
+    n1: n1
+    n2: n2
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: iosv-1-GigabitEthernet0/1<->iosv-2-GigabitEthernet0/1
+  - id: l5
+    n1: n1
+    n2: n5
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: iosv-1-GigabitEthernet0/2<->iosv-5-GigabitEthernet0/2
+  - id: l6
+    n1: n5
+    n2: n2
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: iosv-5-GigabitEthernet0/0<->iosv-2-GigabitEthernet0/0
+  - id: l7
+    n1: n3
+    n2: n5
+    i1: i4
+    i2: i4
+    conditioning: {}
+    label: iosv-3-GigabitEthernet0/3<->iosv-5-GigabitEthernet0/3
+  - id: l8
+    n1: n4
+    n2: n6
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: iosv-4-GigabitEthernet0/1<->iosv-6-GigabitEthernet0/1
+  - id: l9
+    n1: n3
+    n2: n7
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: iosv-3-GigabitEthernet0/2<->iosv-7-GigabitEthernet0/2
+  - id: l10
+    n1: n6
+    n2: n7
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: iosv-6-GigabitEthernet0/0<->iosv-7-GigabitEthernet0/0
+  - id: l11
+    n1: n5
+    n2: n8
+    i1: i2
+    i2: i2
+    conditioning: {}
+    label: iosv-5-GigabitEthernet0/1<->iosv-8-GigabitEthernet0/1
+  - id: l12
+    n1: n2
+    n2: n9
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: iosv-2-GigabitEthernet0/2<->iosv-9-GigabitEthernet0/2
+  - id: l13
+    n1: n8
+    n2: n9
+    i1: i1
+    i2: i1
+    conditioning: {}
+    label: iosv-8-GigabitEthernet0/0<->iosv-9-GigabitEthernet0/0
+  - id: l14
+    n1: n7
+    n2: n10
+    i1: i4
+    i2: i4
+    conditioning: {}
+    label: iosv-7-GigabitEthernet0/3<->iosv-10-GigabitEthernet0/3
+  - id: l15
+    n1: n8
+    n2: n10
+    i1: i3
+    i2: i3
+    conditioning: {}
+    label: iosv-8-GigabitEthernet0/2<->iosv-10-GigabitEthernet0/2
+lab:
+  description: ''
+  notes: ''
+  title: BGP_LAB
+  version: 0.3.0
